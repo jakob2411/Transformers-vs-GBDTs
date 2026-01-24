@@ -1,0 +1,23 @@
+# Note: For reproducible installs use Python 3.11
+
+openml
+xgboost
+tabpfn
+scikit-learn
+pandas
+numpy
+scipy
+joblib
+openpyxl
+catboost
+lightgbm
+pytorch-tabular
+torch
+lightning
+pyarrow
+# TabFlex (microsoft/ticl) - classification-only model
+git+https://github.com/microsoft/ticl.git
+wandb
+mlflow
+gpytorch
+interpret
